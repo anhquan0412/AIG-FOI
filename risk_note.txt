@@ -1,0 +1,27 @@
+-Loss = certainty (a certain loss has 100% chance)
+-Risk != probability of loss
+-Risk = uncertainty (unknown outcome)
+	Pure risk: 2 outcomes/states: loss/no loss
+	Speculative Risk: 3 states: gain, loss or no gain/loss
+
+-Static risk: does not change over time (dead, sickness...)
+-Dynamic risk: can be changed with circumstances (new stuff such as cyber risk)
+-Measurement of risk
+	Subjective risk: individual view of uncertainty (airplane travel)
+	Objective risk: risk is uncertainty concernint a LOSS. (calculate VARIATION based on Expected losses and actual losses)
+		AL-EL/EL
+
+-Sources of Pure Risk:
+	Personal: human capital (ability to generate income, injury, death...), retirement (loss in income, high medical expense)
+	Property (physical assets, theft/damage) and Lialibity (liability exposure, law suit)
+-Factor affecting Risk:
+	Peril: immediate cause of loss (fire, flood, theft)
+	Frequency of the loss
+	Severity of loss (conditional upon Frequency)
+	Hazard: identified based on increase of frequency, severity or both
+		Physical hazard: Location (flood peril ->living near the shore = physical hazard since severity/frequency increase)
+		Construction (fire peril-> wood structure = physical hazard)
+	Moral Hazard: act different because of the existence of Insurance
+		Insurance fraud, Arson
+		Presnece of Insurace = change in behavior
+	Morale Hazard: careless concerning losses. HAVE NOTHING TO DO WITH INSURANCE
