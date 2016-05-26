@@ -1,0 +1,46 @@
+-Steps in risk management process
+	1.Identify loss exposure 
+		-Loss exposure: posibility of a financial loss when peril strikes valuable things
+			Most crucial step
+		-How to identify? inspection, contract analysis (lease, agreement), look at past info, share loss info, checklists/survey, flow chart, ask employees, financial statement approach (balance sheets; liabilities, income, budget...)
+		- Categories of loss exposures 
+			Property: real property (land) and personal property (tangible: equipment, intangible: goodwill, trademark)
+				Legal interest in property: ownership interest (most common, can have present or future ownership interest)
+			Net income (Business Interuption): occur after some other type of loss occurs  
+				(Normal productive process is interrupted that impacts net income)
+				Ex: Delivery truck is stolen (property loss) -> extra cost (rent another truck, decrease in revenue) is net income loss exposure
+			Personnel: when a key employee suffers a personal loss (died, sick, ...)
+				That person loss income, increase medical expenses ...
+				The firm suffer revenue decrease as well
+			Liability (Lawsuits): bad behavior, contract breaking (intentional or unintentional)
+				Legal liability: doing act that are considered negligent that causes damage/loss
+				Measurement issue: establish amount of damage is usually difficult
+				Measurement of loss: property losses (easy to calculate) and bodily injury: special damage (medical expenses, income loss)
+					For bodily injury: general damage (intangible losses: pain, suffering from depression) -> hard to estimate
+					Punitive damage: punishment damage, gross negligence (when someone know sth is illegal but doing it anyway)
+				Defense to liability:
+					Assumption of risk: recognize the danger involved in activity
+					Comparative negligence: plaintiff was partial to blame too.
+
+				Vicarous liability: employers are held responsible for what employees did.
+				Joint and several Liability: negligence of 2 or more parties causes the damage
+				Product liability: faulty product
+					Cost of defending/paying injury claims
+					Cost of recalling faulty product
+					Brand damage
+				Premises liability: damage when someone is on your location, or your property damages other property
+	2.Evaluate exposure to loss
+	3.Identify possible alternatives
+	4.Select alternatives
+	5.Implement chosen options
+	6.Re-evaluate the chosen strategies
+
+
+Enterprise risk management
+	Philosophy: Manage risk and Seize opportunity (using strategic and scientific approach)
+	Hazard risk
+	Financial risk: prizes, volatility (unstable situation)
+	Operational risk: arise out of business operations (supply chain issues: products arent arrived, regulatory issue, employment practices)
+	Strategic of Business risk (SWOT): customer service issues, public relation, competition ...
+	TRM (traditional risk management): departmentalized approach, focus on hazard type risk (handle by specific department)
+	ERM (enterprise): see how risk impacts the entire enterprise
