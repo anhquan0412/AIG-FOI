@@ -1,0 +1,36 @@
+-Definition of insurance:
+	Group exposures to loss of individuals into a group
+	Uses funds paid by the group to pay for losses
+	Group is engaged in a risk sharing arrangement
+-Risk sharing
+	Pros: certainty, peace of mind, safety, security.
+	Trade an unknown loss without insurance for a certain loss with insurance
+	Premium can be viewed as a known loss (prob = 1, certainty in loss costs)
+-Insurance involves Pooling and Transfer
+	Risk and financial responsibility transfer from insured to insurer
+-Insurance contract: insurer agrees to indemnify (compensate for loss) insured
+	Replace/Repair asset
+	Cash
+-Principle of Indemnity
+	Insured should not collect more than actual cash value (ACV) of loss
+	ACV = Replacement cost - depreciation based on Replacement cost
+	ACV can be thought as the price you could sale the product to someone
+	Purpose: to control more hazard (prevent insured from making profit from loss)
+-Insurance Supply
+	Pmax = most that individual will pay for insurance
+	A risk is insurable if price of insurance (PI) < Pmax
+-Insurable risk
+	6 ideal situations for a insurable risk
+		Large # of similar objects, since there are lots of data-> reliable statistics can be formed (life insurance, automobiles)
+			Adverse Selection (negative selection): impact on price (caused by some individuals) could lead to collapse of insurance pool
+		Losses are accidental: avoid moral hazard and gambling
+			To avoid fraud scam: co-pay, claim investigation, policy limit
+		Losses can be determined/measured
+		Losses should not catastrophic to insurer (not large # of individuals suffer at the same time)
+			Ok to catastrphic to insured
+			PI> Pmax
+			Solutions: good underwriting, diversify risks or reinsurance (insurance company buys insurance for themselves)
+		Large loss principle: dont buy insurance for things with small loss (cell phone)
+		Insurable interest: if you buy insurance for some loss, you have to SUFFER from that loss if it occurs -> moral hazard and support principleof indemnity
+
+	

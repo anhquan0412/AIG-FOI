@@ -1,0 +1,25 @@
+-Risk transfer of financing type
+	Seek external sources (from 3rd party) to finance the loss
+	Transfer responsibility of loss but still keep the activity
+-Insurance risk transfer: transfer financial responsibility to insurance company
+-Non-insurance risk transfers
+	Leases: tenant is responsible for all property. If they fail, landlord will take this responsibility -> security deposit
+	Hold harmless agreement: someone accept risks for you via a contract(contractor doing projects for you)
+-Retention
+	retain exposure to loss by not buying insurance (or with deductible insurance)
+	Funded: a fund is set every period to pay for the losses-> better for predictable and severity loss
+	Unfunded: pay for loss as they occur ->better for low frequency loss and low in severity 
+	Active: deliberate decision to practice retention
+	Passive: unaware that they are exposure to loss (ex: tenants assume landlords have property insuranceb but they dont)
+-Self insurance
+	Planed and funded retention
+	Formal program: make deliberate decision to not buy insurance and not transfer the risk outside -> build an internal funding vehicle...
+	Pros:
+		flexibility (since insurance contracts are standardized and State-controlled)
+		time value of money
+	Cons:
+		Catastrophic loss posibility (one big loss -> done)
+		Have to perform administration functions yourself
+		Poor public relation
+		Hard to return to insurance market
+		Income Tax Treatment:
