@@ -1,0 +1,25 @@
+-Risk control options:
+	Attemps to control the risk
+	Reduce frequency/severity of the loss to 0
+	Improve predictability of the loss
+-Avoidance
+	Stop engaging the activity causing loss
+	Risk reduce to 0
+	Cons: some risks cannot be avoided (death, natural disaster), or avoidance are not desirable (profittable)
+		Legacy cost
+		Avoid by trading one risk for another which is more risky
+	Pros: when cost of risk > profit from risk
+		Strategy is mutually exclusive to all other options
+-Loss prevention
+	Reduce frequency/severity (not eliminate it)
+	Activities that interrupt chain of events that lead to loss
+	Ex: training program, control checks ...
+	Assume that loss will occur -> what can be done prior to or after the loss to lessen the amount of loss
+	->reduce severity
+	Post loss: legal defenses (hire a lawyer), crisis management
+-Separation of Exposure unit
+	Break down activities to smaller part (one big truck to small trucks)
+	Limit size of loss
+	Reduce net income loss
+	Lower coefficient of variation -> reduce risk
+	Might increase cost, risks of loss of multiple units
